@@ -7,6 +7,7 @@ Play with breasts, hair, clothes which use dynamic bones.
 * Studio support.  
 * Toggles for running in game / studio.  
 * Performance improvements.  
+* Changing hotkey for on / off.  
 * BepInEx support.  
 
 **Download**  
