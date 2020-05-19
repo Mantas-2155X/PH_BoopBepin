@@ -3,6 +3,8 @@
 This plugin allows you to play with DynamicBone and DynamicBone_Ver02 by moving your mouse.  
 Play with breasts, hair, clothes which use dynamic bones.  
 
+# DO NOT REUPLOAD WITHOUT PERMISSION | 未经许可请勿转载
+
 **New:**  
 * Studio support.  
 * Toggles for running in game / studio.  
