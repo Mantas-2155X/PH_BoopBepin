@@ -20,7 +20,7 @@ Play with breasts, hair, clothes which use dynamic bones.
 * You should see `BoopBepin.dll` in `BepInEx/Plugins/2155X/`.  
 
 **Configuration:**  
-* Open the plugin settings by clicking F1 and change the settings according to your needs.  
+* Open the plugin settings by clicking the "Plugin Settings" button in the game config and change the settings according to your needs.  
 
 **Notes:**  
 * This plugin is an edited version of yyPH_Boop which was made for IPA.  
